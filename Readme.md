@@ -1,8 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url]
 
 * Студент: [Владислав Цыганков](https://up.htmlacademy.ru/adaptive/21/user/1535177).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Сергей Зубов](https://htmlacademy.ru/profile/serj).
 ---
 
 **Обратите внимание, что папка с вашими исходными файлами — `source/`.**
